@@ -1,0 +1,13 @@
+,Site_comp,Depth,Diss_type,Diss_value
+1,IDR_MA,15,Turnover,0.5087719
+2,IDR_MA,15,Nestedness,0
+3,IDR_MA,30,Turnover,0.5026738
+4,IDR_MA,30,Nestedness,0.04586989
+5,IDR_MA,60,Turnover,0.589372
+6,IDR_MA,60,Nestedness,0.007784417
+7,IDR_MA,80,Turnover,0.5371429
+8,IDR_MA,80,Nestedness,0.03654135
+9,IDR_MA,110,Turnover,0.5210084
+10,IDR_MA,110,Nestedness,0.01557696
+11,IDR_MA,150,Turnover,0.625
+12,IDR_MA,150,Nestedness,0.04166667
